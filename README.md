@@ -1,10 +1,4 @@
-Phase 1:
-*Proposed Solution Document
-*Problem Statement Document
-*Project Planning Document
+*Demo Video Link
 
-Phase 2:
-*Solution Requirements 
-*Solution Architecture
-*Technology Stack
-*Data Flow Diagrams and User Stories
+https://drive.google.com/file/d/1gXwq0y4SlJHzEO_aN2In-FbtWAmNFO7X/view?usp=drivesdk
+
